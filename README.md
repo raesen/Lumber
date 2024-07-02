@@ -1,2 +1,2 @@
 # Lumber
-Directory str.
+Directory structre
